@@ -17,8 +17,7 @@ Hejfaktura är [enkel fakturering](https://hejfaktura.se) till för dig som tyck
 
 Prova gratis i 60 dagar på https://hejfaktura.se/
 
-![og_demo](https://github.com/hejfaktura/.github/assets/1999142/a905f19a-3ceb-44b8-99b7-68c55640c608)
-
+<img src="https://github.com/hejfaktura/.github/assets/1999142/a905f19a-3ceb-44b8-99b7-68c55640c608" alt="Demo av Hejfaktura" width="500" />
 
 - Fakturor med egen logotyp - [här är ett exempel](https://hejfaktura.se/static/sample.pdf)
 - Offerter och ordrar som underlag till fakturor
